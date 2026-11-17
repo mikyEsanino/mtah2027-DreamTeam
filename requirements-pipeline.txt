@@ -1,0 +1,4 @@
+# Dependencias exactas del pipeline (make_submission.py). Solo numpy y pandas.
+# Probado en Python 3.12.
+numpy==2.5.4
+pandas==3.1.1
